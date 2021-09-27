@@ -1,4 +1,5 @@
 # HoughNet
+![alt text](img/houghnet.png)
 
 Code for the paper:
 
