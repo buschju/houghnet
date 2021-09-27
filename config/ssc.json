@@ -1,0 +1,12 @@
+{
+  "seed": 0,
+  "model_name": "SSC",
+  "model_parameters": {
+    "max_subspace_dimensionality": null
+  },
+  "training_parameters": {
+  },
+  "run_parameters": {
+    "num_runs": 1
+  }
+}

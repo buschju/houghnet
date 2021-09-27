@@ -1,0 +1,11 @@
+cmake>=3.20.3
+cvxpy>=1.1.13
+joblib>=1.0.1
+matplotlib>=3.4.2
+mlflow>=1.17.0
+munkres>=1.1.4
+numpy>=1.20.3
+pandas>=1.2.4
+scipy>=1.6.3
+scikit-learn>=0.24.2
+seaborn>=0.11.1

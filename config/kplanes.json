@@ -1,0 +1,13 @@
+{
+  "seed": 0,
+  "model_name": "KPlanes",
+  "model_parameters": {
+    "initial_data_mean": true,
+    "max_iterations": 1000
+  },
+  "training_parameters": {
+  },
+  "run_parameters": {
+    "num_runs": 10
+  }
+}

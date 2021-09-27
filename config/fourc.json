@@ -1,0 +1,16 @@
+{
+  "seed": 0,
+  "model_name": "FourC",
+  "model_parameters": {
+    "max_subspace_dimensionality": null,
+    "absolute": false,
+    "delta": 0.1,
+    "kappa": 50
+  },
+  "training_parameters": {
+  },
+  "run_parameters": {
+    "num_runs": 1,
+    "elki": true
+  }
+}

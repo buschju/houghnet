@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "model_name": "CASH",
+  "model_parameters": {
+    "minDim": 1,
+    "jitter": 0.05,
+    "adjust": true
+  },
+  "training_parameters": {
+  },
+  "run_parameters": {
+    "num_runs": 1,
+    "elki": true
+  }
+}

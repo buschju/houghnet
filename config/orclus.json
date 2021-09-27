@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "model_name": "ORCLUS",
+  "model_parameters": {
+    "max_subspace_dimensionality": null,
+    "alpha": 0.5,
+    "k_i": null
+  },
+  "training_parameters": {
+  },
+  "run_parameters": {
+    "num_runs": 10,
+    "elki": true
+  }
+}
